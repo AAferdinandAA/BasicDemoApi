@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore; 
-using BasicsDemoApi.Data; // 引入你自己的DbContext命名空间
+using BasicDemoApi.Data; // 引入你自己的DbContext命名空间
 
 var builder = WebApplication.CreateBuilder(args);
 

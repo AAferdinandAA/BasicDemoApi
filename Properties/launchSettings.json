@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "BasicsDemoApi": {
+    "BasicDemoApi": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
