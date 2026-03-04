@@ -1,4 +1,4 @@
-namespace BasicsDemoApi;
+namespace BasicDemoApi;
 
 public class WeatherForecast
 {

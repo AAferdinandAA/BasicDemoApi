@@ -1,4 +1,4 @@
-namespace BasicsDemoApi.Models;
+namespace BasicDemoApi.Models;
 
 public class DataItem
 {
